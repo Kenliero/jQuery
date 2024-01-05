@@ -9,4 +9,4 @@ $("document").keydown(function(event) {
 
 $("h1").on("mouseover", function() {
     $("h1").css("color", "purple"); // This is the one I made.
-})
+});
