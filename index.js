@@ -8,5 +8,5 @@ $("document").keydown(function(event) {
 */
 
 $("document").on("mouseover", function() {
-    $("h1").css("text", event.key); // This is the one I made.
+    $("h1").css("color", "purple"); // This is the one I made.
 })
